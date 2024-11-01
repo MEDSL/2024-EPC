@@ -1,0 +1,4 @@
+Here we store the statewide mail ballot data,
+	obtained from the North Carolina State Board of Elections
+	on the web at https://www.ncsbe.gov/results-data/absentee-and-provisional-data
+	not reproduced here because it is too large, even when compressed
