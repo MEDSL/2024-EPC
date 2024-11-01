@@ -1,0 +1,2 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+43888	11/05/2024	2024 General	State Totals	Voted Vote-by-Mail	15,052	18,578	1,034	7,909	42,573	10/04/2024  8:06AM

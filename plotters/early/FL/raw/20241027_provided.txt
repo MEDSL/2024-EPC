@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+43888	11/05/2024	2024 General	State Totals	Vote-by-Mail Provided (Not Yet Returned)	465,959	589,531	37,774	372,468	1,465,732	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Alachua	Vote-by-Mail Provided (Not Yet Returned)	3,765	9,905	439	3,825	17,934	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Baker	Vote-by-Mail Provided (Not Yet Returned)	471	187	20	92	770	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Bay	Vote-by-Mail Provided (Not Yet Returned)	3,258	2,063	211	1,476	7,008	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Bradford	Vote-by-Mail Provided (Not Yet Returned)	469	267	14	116	866	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Brevard	Vote-by-Mail Provided (Not Yet Returned)	13,734	15,037	1,237	9,234	39,242	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Broward	Vote-by-Mail Provided (Not Yet Returned)	27,639	80,291	3,353	43,239	154,522	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Calhoun	Vote-by-Mail Provided (Not Yet Returned)	189	151	5	44	389	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Charlotte	Vote-by-Mail Provided (Not Yet Returned)	6,248	4,118	497	3,579	14,442	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Citrus	Vote-by-Mail Provided (Not Yet Returned)	3,664	2,234	232	1,660	7,790	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Clay	Vote-by-Mail Provided (Not Yet Returned)	4,432	3,076	318	2,322	10,148	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Collier	Vote-by-Mail Provided (Not Yet Returned)	13,411	7,009	707	6,428	27,555	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Columbia	Vote-by-Mail Provided (Not Yet Returned)	1,143	932	60	415	2,550	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	DeSoto	Vote-by-Mail Provided (Not Yet Returned)	375	308	16	175	874	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Dixie	Vote-by-Mail Provided (Not Yet Returned)	453	161	13	79	706	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Duval	Vote-by-Mail Provided (Not Yet Returned)	14,493	19,990	1,285	8,895	44,663	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Escambia	Vote-by-Mail Provided (Not Yet Returned)	7,966	7,248	498	4,024	19,736	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Flagler	Vote-by-Mail Provided (Not Yet Returned)	2,958	2,926	222	1,778	7,884	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Franklin	Vote-by-Mail Provided (Not Yet Returned)	252	236	19	84	591	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Gadsden	Vote-by-Mail Provided (Not Yet Returned)	257	1,338	19	176	1,790	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Gilchrist	Vote-by-Mail Provided (Not Yet Returned)	410	160	16	86	672	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Glades	Vote-by-Mail Provided (Not Yet Returned)	214	131	10	53	408	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Gulf	Vote-by-Mail Provided (Not Yet Returned)	330	199	25	72	626	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Hamilton	Vote-by-Mail Provided (Not Yet Returned)	184	216	10	40	450	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Hardee	Vote-by-Mail Provided (Not Yet Returned)	197	130	8	69	404	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Hendry	Vote-by-Mail Provided (Not Yet Returned)	448	398	20	156	1,022	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Hernando	Vote-by-Mail Provided (Not Yet Returned)	4,715	3,985	387	2,867	11,954	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Highlands	Vote-by-Mail Provided (Not Yet Returned)	1,800	1,154	102	823	3,879	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Hillsborough	Vote-by-Mail Provided (Not Yet Returned)	28,964	43,251	2,591	26,975	101,781	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Holmes	Vote-by-Mail Provided (Not Yet Returned)	257	90	10	44	401	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Indian River	Vote-by-Mail Provided (Not Yet Returned)	4,946	3,551	315	2,408	11,220	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Jackson	Vote-by-Mail Provided (Not Yet Returned)	673	672	27	104	1,476	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Jefferson	Vote-by-Mail Provided (Not Yet Returned)	189	271	12	92	564	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Lafayette	Vote-by-Mail Provided (Not Yet Returned)	123	30	3	17	173	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Lake	Vote-by-Mail Provided (Not Yet Returned)	7,916	8,081	596	5,354	21,947	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Lee	Vote-by-Mail Provided (Not Yet Returned)	26,785	16,818	1,569	16,104	61,276	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Leon	Vote-by-Mail Provided (Not Yet Returned)	4,099	10,478	378	3,245	18,200	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Levy	Vote-by-Mail Provided (Not Yet Returned)	1,105	636	40	288	2,069	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Liberty	Vote-by-Mail Provided (Not Yet Returned)	93	54	1	15	163	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Madison	Vote-by-Mail Provided (Not Yet Returned)	166	235	5	46	452	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Manatee	Vote-by-Mail Provided (Not Yet Returned)	13,027	10,986	831	7,204	32,048	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Marion	Vote-by-Mail Provided (Not Yet Returned)	5,989	5,599	345	2,753	14,686	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Martin	Vote-by-Mail Provided (Not Yet Returned)	4,560	3,395	388	2,241	10,584	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Miami-Dade	Vote-by-Mail Provided (Not Yet Returned)	48,570	69,114	3,702	53,066	174,452	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Monroe	Vote-by-Mail Provided (Not Yet Returned)	2,590	2,095	170	1,221	6,076	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Nassau	Vote-by-Mail Provided (Not Yet Returned)	3,092	1,715	198	1,325	6,330	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Okaloosa	Vote-by-Mail Provided (Not Yet Returned)	4,978	2,701	334	2,616	10,629	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Okeechobee	Vote-by-Mail Provided (Not Yet Returned)	532	306	33	148	1,019	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Orange	Vote-by-Mail Provided (Not Yet Returned)	20,206	38,742	2,255	23,698	84,901	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Osceola	Vote-by-Mail Provided (Not Yet Returned)	6,781	12,016	643	8,720	28,160	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Palm Beach	Vote-by-Mail Provided (Not Yet Returned)	26,689	47,553	3,164	27,468	104,874	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Pasco	Vote-by-Mail Provided (Not Yet Returned)	11,475	12,335	1,141	9,196	34,147	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Pinellas	Vote-by-Mail Provided (Not Yet Returned)	43,288	49,780	2,940	31,572	127,580	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Polk	Vote-by-Mail Provided (Not Yet Returned)	14,181	16,165	1,085	9,831	41,262	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Putnam	Vote-by-Mail Provided (Not Yet Returned)	978	836	58	384	2,256	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Santa Rosa	Vote-by-Mail Provided (Not Yet Returned)	4,075	2,039	231	1,803	8,148	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Sarasota	Vote-by-Mail Provided (Not Yet Returned)	19,633	18,344	1,226	11,482	50,685	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Seminole	Vote-by-Mail Provided (Not Yet Returned)	10,545	13,880	997	9,383	34,805	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	St. Johns	Vote-by-Mail Provided (Not Yet Returned)	7,140	5,976	512	3,896	17,524	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	St. Lucie	Vote-by-Mail Provided (Not Yet Returned)	6,547	9,257	730	5,359	21,893	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Sumter	Vote-by-Mail Provided (Not Yet Returned)	5,637	3,325	252	2,400	11,614	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Suwannee	Vote-by-Mail Provided (Not Yet Returned)	980	500	42	232	1,754	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Taylor	Vote-by-Mail Provided (Not Yet Returned)	481	311	9	71	872	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Union	Vote-by-Mail Provided (Not Yet Returned)	207	126	4	23	360	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Volusia	Vote-by-Mail Provided (Not Yet Returned)	11,941	12,949	1,043	8,887	34,820	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Wakulla	Vote-by-Mail Provided (Not Yet Returned)	474	453	23	167	1,117	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Walton	Vote-by-Mail Provided (Not Yet Returned)	2,090	722	106	728	3,646	10/27/2024  8:11AM
+43888	11/05/2024	2024 General	Washington	Vote-by-Mail Provided (Not Yet Returned)	482	294	22	95	893	10/27/2024  8:11AM

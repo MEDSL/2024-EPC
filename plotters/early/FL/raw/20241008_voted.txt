@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+43888	11/05/2024	2024 General	State Totals	Voted Vote-by-Mail	96,456	107,822	5,278	46,332	255,888	10/08/2024  8:07AM
+43888	11/05/2024	2024 General	Alachua	Voted Vote-by-Mail	1,120	2,736	91	694	4,641	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Baker	Voted Vote-by-Mail	239	71	2	16	328	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Bay	Voted Vote-by-Mail	514	300	34	159	1,007	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Bradford	Voted Vote-by-Mail	134	68	4	22	228	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Brevard	Voted Vote-by-Mail	114	107	12	61	294	10/07/2024  8:05AM
+43888	11/05/2024	2024 General	Broward	Voted Vote-by-Mail	2,596	5,525	205	2,087	10,413	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Calhoun	Voted Vote-by-Mail	127	79	0	9	215	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Charlotte	Voted Vote-by-Mail	3,641	2,903	247	1,466	8,257	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Citrus	Voted Vote-by-Mail	2,691	1,557	128	873	5,249	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Clay	Voted Vote-by-Mail	1,919	1,214	99	640	3,872	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Collier	Voted Vote-by-Mail	5,843	2,921	207	2,045	11,016	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Columbia	Voted Vote-by-Mail	148	81	3	32	264	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	DeSoto	Voted Vote-by-Mail	14	20	0	8	42	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Dixie	Voted Vote-by-Mail	133	35	5	18	191	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Duval	Voted Vote-by-Mail	269	389	25	155	838	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Escambia	Voted Vote-by-Mail	446	291	14	212	963	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Flagler	Voted Vote-by-Mail	1,896	1,843	109	822	4,670	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Franklin	Voted Vote-by-Mail	46	39	4	22	111	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Gadsden	Voted Vote-by-Mail	63	336	5	17	421	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Gilchrist	Voted Vote-by-Mail	62	26	0	10	98	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Glades	Voted Vote-by-Mail	110	68	12	24	214	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Gulf	Voted Vote-by-Mail	6	0	0	0	6	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Hamilton	Voted Vote-by-Mail	2	4	1	1	8	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Hardee	Voted Vote-by-Mail	67	36	4	17	124	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Hendry	Voted Vote-by-Mail	147	141	10	43	341	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Hernando	Voted Vote-by-Mail	2,108	1,626	79	734	4,547	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Highlands	Voted Vote-by-Mail	498	422	25	165	1,110	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Hillsborough	Voted Vote-by-Mail	1,049	1,379	68	558	3,054	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Holmes	Voted Vote-by-Mail	164	67	3	19	253	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Indian River	Voted Vote-by-Mail	2,762	2,240	159	1,151	6,312	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Jackson	Voted Vote-by-Mail	400	338	4	39	781	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Jefferson	Voted Vote-by-Mail	19	51	3	3	76	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Lafayette	Voted Vote-by-Mail	40	18	2	3	63	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Lake	Voted Vote-by-Mail	2,476	2,562	115	1,049	6,202	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Lee	Voted Vote-by-Mail	6,194	3,825	249	2,732	13,000	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Leon	Voted Vote-by-Mail	656	1,529	33	344	2,562	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Levy	Voted Vote-by-Mail	467	287	20	97	871	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Liberty	Voted Vote-by-Mail	16	7	0	0	23	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Madison	Voted Vote-by-Mail	39	70	0	4	113	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Manatee	Voted Vote-by-Mail	2,868	2,279	104	1,109	6,360	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Marion	Voted Vote-by-Mail	2,279	2,377	120	811	5,587	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Martin	Voted Vote-by-Mail	1,934	1,571	103	656	4,264	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Miami-Dade	Voted Vote-by-Mail	8,281	11,641	419	6,073	26,414	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Monroe	Voted Vote-by-Mail	764	860	35	256	1,915	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Nassau	Voted Vote-by-Mail	343	186	22	113	664	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Okaloosa	Voted Vote-by-Mail	1,963	1,147	73	619	3,802	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Okeechobee	Voted Vote-by-Mail	244	162	15	49	470	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Orange	Voted Vote-by-Mail	1,829	3,510	104	1,074	6,517	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Osceola	Voted Vote-by-Mail	102	139	6	60	307	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Palm Beach	Voted Vote-by-Mail	11,055	22,640	962	8,088	42,745	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Pasco	Voted Vote-by-Mail	4,666	4,575	240	2,055	11,536	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Pinellas	Voted Vote-by-Mail	5,940	6,026	318	2,933	15,217	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Polk	Voted Vote-by-Mail	2,374	2,243	106	868	5,591	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Putnam	Voted Vote-by-Mail	420	322	13	127	882	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Santa Rosa	Voted Vote-by-Mail	1,109	661	39	285	2,094	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Sarasota	Voted Vote-by-Mail	2,970	3,528	153	1,300	7,951	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Seminole	Voted Vote-by-Mail	1,163	1,444	73	576	3,256	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	St. Johns	Voted Vote-by-Mail	1,935	2,170	106	701	4,912	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	St. Lucie	Voted Vote-by-Mail	2,426	3,089	153	1,227	6,895	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Sumter	Voted Vote-by-Mail	314	238	6	113	671	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Suwannee	Voted Vote-by-Mail	222	96	8	29	355	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Taylor	Voted Vote-by-Mail	0	0	0	0	0	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Union	Voted Vote-by-Mail	106	40	2	11	159	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Volusia	Voted Vote-by-Mail	1,535	1,399	105	763	3,802	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Wakulla	Voted Vote-by-Mail	165	176	7	43	391	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Walton	Voted Vote-by-Mail	135	53	3	28	219	10/08/2024  8:06AM
+43888	11/05/2024	2024 General	Washington	Voted Vote-by-Mail	79	39	2	14	134	10/08/2024  8:06AM
