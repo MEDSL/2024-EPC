@@ -1,6 +1,6 @@
 # About
 The code in this repository supports the daily plots provided in the
-	2024 Stanford-MIT Elections Performance Central
+	2024 Stanford-MIT Elections Performance Central <br>
 	On the web at: https://www.elexcentral.org/
 
 The codebase was written in Cambridge, MA
