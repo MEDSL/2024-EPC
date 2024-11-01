@@ -1,0 +1,1 @@
+* Here we store one copy of the voter file for every day, not reproduced here because it is intimidatingly large
