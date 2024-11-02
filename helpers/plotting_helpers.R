@@ -1,8 +1,3 @@
-################################################################################
-## Plotting Helpers for plotters in R
-## Sina Shaikh
-################################################################################
-
 custom_library_load <- function(packages) {
   # I use base R loading rather than librarian or pacman to avoid dependancies
   # and to manually specify default library path even though the syntax is messier

@@ -1,0 +1,1 @@
+Here we punish our server by saving one version of the voter file every day
