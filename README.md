@@ -11,6 +11,7 @@ The codebase was written in Cambridge, MA
 Version history of this readme:
 * first drafted by sbaltz at mit on 28 october 2024
 * modified by sbaltz on 30 october 2024
+* modified by sbaltz on 4 november 2024
 
 # Warnings
 This code will only work after some active and thoughtful modification!
